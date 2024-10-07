@@ -12,5 +12,3 @@ pipeline {
         // Other stages (e.g., Build, Test, etc.)
     }
 }
-
-*****************************************
